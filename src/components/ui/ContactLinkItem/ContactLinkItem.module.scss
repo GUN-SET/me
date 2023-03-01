@@ -1,0 +1,7 @@
+.ContactLinkItem {
+	@apply flex items-center space-x-5 justify-center;
+}
+
+.ContactLinkIcon {
+	@apply text-[#F7AB0A] h-7 w-7 animate-pulse;
+}
